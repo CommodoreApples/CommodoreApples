@@ -2,7 +2,10 @@
 <h3 align="center">A passionate lifetime student.</h3>
 
 
-- 🌱 I’m currently learning **Java and C#**
+<h3>🌱 I’m currently learning</h3>
+
+- **Java**
+- **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
