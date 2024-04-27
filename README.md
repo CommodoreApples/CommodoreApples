@@ -1,5 +1,5 @@
 👋 Hello, I'm Alexander Applegate
-I am a dedicated Life-time student, always willing to learn something new!
+I am a dedicated lifetime student, always willing to learn something new!
 
 🚀 About Me
 <br/>
@@ -16,7 +16,7 @@ Languages: Proficient in Python, GDScript
 Tools: Git/Github, Visual Studio Code, Replit, Godot
 
 🚧 Currently Working On
-Video Game: Small video game passion project with a couple friends. 
+Video Game: Small video game passion project with a couple of friends. 
 Dungeons and Dragons Discord Bot: Helping manage D&D sessions with it.
 
 📫 How to reach me
