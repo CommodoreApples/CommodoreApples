@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/alexander-applegate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander applegate" height="30" width="40" /></a>
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=commodoreapples&show_icons=true&theme=dark&title_color=a00303&text_color=a00303&locale=en" alt="commodoreapples" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=commodoreapples&theme=dark" alt="commodoreapples" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=commodoreapples&theme=dark" alt="commodoreapples" /></p>
 <br/>
 
 <h1>&nbsp;</h1>
