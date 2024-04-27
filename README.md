@@ -1,11 +1,13 @@
 <h1 align="center">Hello 👋, I'm Alexander Applegate</h1>
 <h3 align="center">A passionate lifetime student.</h3>
+<p>I am a student at Ivy Tech Community College.  Currently, I am going for an AAS for Software Development.  I love to listen to music</p>
 
 
 <h3>🌱 I’m currently learning</h3>
 
 - **Java**
 - **C#**
+- 🎶 **Guitar**
 
 <h3>🚧 Currently Working On</h3>
 
