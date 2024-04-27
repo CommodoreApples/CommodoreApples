@@ -2,15 +2,16 @@
 I am a dedicated Life-time student, always willing to learn something new!
 
 🚀 About Me
+<br>
 
  - 🎓 Currently pursuing a degree in Software Development.
-
  - 🌐 Enthusiastic about exploring new technologies and crafting innovative projects.
-
  - 🎶 Music enthusiast and nature lover.
-
+   
+🌱 I’m currently learning
+<br>
 Languages: Proficient in Python, GDScript
- - 🌱 I’m currently learning Java and C#
+ - Java and C#
 <!-- Frameworks & Libraries: Experienced with SvelteKit, Jest | 💻 Aspiring . -->
 Tools: Git/Github, Visual Studio Code, Replit, Godot
 
