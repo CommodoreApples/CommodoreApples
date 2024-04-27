@@ -17,7 +17,7 @@
 
 - 🎲 **Dungeons and Dragons Discord Bot: Facilitating our weekly D&D games by managing characters and items.**
 - 🕹️ **Video Game: A little passion project with a couple of friends**
-
+<br/>
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
