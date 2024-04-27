@@ -3,11 +3,11 @@ I am a dedicated Life-time student, always willing to learn something new!
 
 🚀 About Me
 
-🎓 Currently pursuing a degree in Software Development.
+ - 🎓 Currently pursuing a degree in Software Development.
 
-🌐 Enthusiastic about exploring new technologies and crafting innovative projects.
+ - 🌐 Enthusiastic about exploring new technologies and crafting innovative projects.
 
-🎶 Music enthusiast and nature lover.
+ - 🎶 Music enthusiast and nature lover.
 
 Languages: Proficient in Python, GDScript
  - 🌱 I’m currently learning Java and C#
