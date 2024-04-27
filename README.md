@@ -2,7 +2,7 @@
 <h3 align="center">A passionate lifetime student.</h3>
 <p>I am a student at Ivy Tech Community College.  Currently, I am going for an AAS for Software Development.  I love to listen to music, with some of my favorite bands being Sabaton and Nirvana.</p>
 
-
+<br/>
 <h1>📅 What I am up to</h1>
 <h3>🌱 I’m currently learning</h3>
 - **Java**
